@@ -6,4 +6,4 @@ Jinja2==3.1.2
 MarkupSafe==2.1.2
 pycryptodome==3.17
 pypdf==3.8.1
-Werkzeug==2.3.4
+Werkzeug==3.1.6
